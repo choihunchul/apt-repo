@@ -1,7 +1,25 @@
-Origin: choihunchul
-Label: choihunchul APT Repository
-Codename: stable
-Date: Thu, 11 Jun 2026 15:50:00 +0900
-Architectures: amd64 arm64
-Components: main
-Description: Placeholder release file. This will be automatically regenerated on the first package publish.
+Date: Thu, 11 Jun 2026 08:12:22 +0000
+MD5Sum:
+ f2798b5d2e4076c27ac7be6947cdcbc7               38 Release
+ 7fbc9511d00cbd6905893571812ac787              417 main/binary-amd64/Packages
+ d3a2068329ec038b1267fe36973ba738              327 main/binary-amd64/Packages.gz
+ e3eba96e78695cf87df1ff2c2fc79e83              417 main/binary-arm64/Packages
+ e4f577447684373cfda85fd3e19d720a              327 main/binary-arm64/Packages.gz
+SHA1:
+ 9de44b14bff4a3298255638c663c516d32419a6b               38 Release
+ c2cbc7f0845acb490977372688653c69b5a89bb1              417 main/binary-amd64/Packages
+ d0bad0f5210e029aeed5b377fd7763d5f84054f1              327 main/binary-amd64/Packages.gz
+ c99adce6535da94e515d7642559ceb7f72e0b5be              417 main/binary-arm64/Packages
+ b9aff0f05cd9a946b3672b54e174b3956aaa44b5              327 main/binary-arm64/Packages.gz
+SHA256:
+ 946aeeb005c7825de316fd5f1186fd42264e6fa2feb455eb6fb1d844f8a81072               38 Release
+ 992e00721cd17f51491465786d612a12faffe537db0fbadf825766a668651405              417 main/binary-amd64/Packages
+ 45b8c7fc0a152d3ec83ba407d3d95ff58dc261c5f955ddb047397e51b2acaf6a              327 main/binary-amd64/Packages.gz
+ 3459df57dbbcb1461d638f457a32b2d0f877138bce4974b412544437f8a1b307              417 main/binary-arm64/Packages
+ 1b5571957e72981aa1aca446665aeecb48c7873b0075691d2637d9e96091e8bf              327 main/binary-arm64/Packages.gz
+SHA512:
+ 0a6ea1f2541122851eae489b8dc3844d07ff42840d605f8bf40ce9a7d4557fe7849ed80ae61953fee22f8be6a3f07b4765878342659483b4a64f261748ad7c1a               38 Release
+ c5cce8a42db9272264d26f2495af8bc349b2d414bfb3a84d172710b5b31a18cb9778eb5b1ce60263d950c4ac1fdaaed36d5ac377a3f5a5ca81ea42f4ac1cf2be              417 main/binary-amd64/Packages
+ c9a7f7f887d6a41e847a2042df69081d9c8de170769be2c622861455d5786541491838e5226ee386a3d42c096022f8bd5a00a3555ad493d493cdd78ff95de846              327 main/binary-amd64/Packages.gz
+ f6fafefdc063f0373c7c5b9a789a19ec281427f4008b2028b60831facc9f0738014b318a4eb61b8b1b537fc7914aec41e5f81f35a5990e53d5359a40e5acf1f5              417 main/binary-arm64/Packages
+ a23f4c440351696a2453f47545c91bc32946ebaa189e39414e4ad0202b365b05c517e9f93bf08e239d53dbfb236860c39183f8534a1e654e1d19a3eb1dc26e02              327 main/binary-arm64/Packages.gz
