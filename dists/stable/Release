@@ -1,0 +1,7 @@
+Origin: choihunchul
+Label: choihunchul APT Repository
+Codename: stable
+Date: Thu, 11 Jun 2026 15:50:00 +0900
+Architectures: amd64 arm64
+Components: main
+Description: Placeholder release file. This will be automatically regenerated on the first package publish.
