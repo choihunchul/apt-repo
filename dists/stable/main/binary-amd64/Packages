@@ -1,12 +1,12 @@
 Package: lazyifconfig
-Version: 0.2.15
+Version: 0.2.16
 Architecture: amd64
 Maintainer: Hunchul Choi
-Filename: pool/main/l/lazyifconfig/lazyifconfig_0.2.15_amd64.deb
-Size: 2162494
-MD5sum: c19e8e2af967b3745eba46281828ca2c
-SHA1: 2432023c6afbd4145ce1ad9da8733b3b9172dbec
-SHA256: 973d800c139412e1efb4909c720eb3c7e08bbc49a929341c9a72106c18404cdd
+Filename: pool/main/l/lazyifconfig/lazyifconfig_0.2.16_amd64.deb
+Size: 2166102
+MD5sum: 76e9636c50e56a30076fc1b8cd61a3ee
+SHA1: a056d7ded0403d8e63ec1056f86d2e2e6f708e75
+SHA256: aee5b80ade9562dc4c015e59c48447b86871558f8bfa8c0773a239c1323647cc
 Section: utils
 Priority: optional
 Description: Terminal UI for inspecting local network state
